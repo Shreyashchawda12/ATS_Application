@@ -12,7 +12,7 @@ visit https://makersuite.google.com/app/apikey website and create API Key and st
 ``
 ### created a environment using Annaconda
 ```Bash
-conda create -p "venv" python==3.8 -y
+conda create -p "venv" python==3.10 -y
 ```
 ### activate environment
 ```Bash
